@@ -69,6 +69,8 @@ dependencies {
 
     implementation("androidx.room:room-paging:$room_version")
 
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0")
+
 
 
 }
